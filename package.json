@@ -1,0 +1,23 @@
+{
+  "name": "opscom",
+  "version": "1.0.0",
+  "description": "OpsCom — Multi-Agency Operational Command & Clinical Management Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "opscom",
+    "command-and-control",
+    "cad",
+    "mdt",
+    "emergency-services",
+    "incident-command",
+    "clinical-management",
+    "event-medical",
+    "tailwind-css"
+  ],
+  "author": "Abdou Arabi <arabiabdou453@gmail.com>",
+  "license": "MIT"
+}
