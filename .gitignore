@@ -1,9 +1,6 @@
 node_modules/
+dist/
 .DS_Store
 *.log
-raw.html
-parse_assets.js
-inspect_opscom.js
-inspect_nav.js
-find_footer.js
-build_clean_opscom.js
+.env
+.env.local
